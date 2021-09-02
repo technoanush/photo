@@ -1,0 +1,23 @@
+body{
+	 background-image: url("img/bg.png");
+	 background-size: 1600px;
+	 background-repeat: no-repeat;
+	 background-attachment: fixed;
+}
+
+a{
+	 font-family: 'Work Sans', sans-serif;
+	}
+.sign{
+	color: green;
+	font-weight: 1000;
+}
+.search{
+	background: none;
+}
+.main.{
+	position: relative;
+}
+.title{
+	color: #5E1486;
+}
