@@ -20,32 +20,10 @@ a{
 .search{
 	background: none;
 }
-.main.{
-	position: relative;
-}
 .title{
 	color: #5E1486;
-}
-.imgs{
-	position: absolute;
-}
-.i1{
-	top: 16%;
-
-}
-.i2{
-	top: 13%;
-	right: 20%;
-}
-.i3{
-	top: 55%;
 }
 .title{
 	font-size: 50px;
 	font-family: 'Rubik', sans-serif;
-}
-.textpart{
-	position: absolute;
-	left: 15%;
-	top: 25%;
 }
