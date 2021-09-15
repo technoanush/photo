@@ -19,6 +19,7 @@ a{
 }
 .search{
 	background: none;
+	outline: 0;
 }
 .title{
 	color: #5E1486;
@@ -26,4 +27,25 @@ a{
 .title{
 	font-size: 50px;
 	font-family: 'Rubik', sans-serif;
+}
+.adv{
+	background-color: #7f43d6;
+	  border-radius: 25px;
+padding: 40px;
+}
+.nk1{
+  z-index: 0;
+  width: 300px;
+  border-radius: 25px;
+  
+}
+.nk2{
+  z-index: 1;
+  width: 400px;
+  top: 55%;
+  left: 30%;
+  border-radius: 25px;
+}
+.adv {
+	color: white;
 }
