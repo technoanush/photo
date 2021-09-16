@@ -103,10 +103,10 @@
   font-size: 14px;
   font-family: 'Helvetica', sans-serif;
   display: inline-block;
-  background: rgba(0, 0, 0, 0.6);
+  background-color: rgba(127, 67, 214, 0.4);
   padding: 0 15px;
   line-height: 32px;
-  color: #fff;
+  color: #666;
   border-radius: 16px;
   margin-right: 10px;
   margin-bottom: 10px;
@@ -127,13 +127,13 @@
   }
 }
 
-.s006 a, a:hover{
+.s006 a{
   text-decoration: none;
-  color: #ccc;
+  color: #2E003E;
 
 }
 .s006 a:hover{
   text-decoration: none;
-  color: #ccc;
+  color: #2E003E;
 
 }
