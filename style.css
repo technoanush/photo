@@ -3,6 +3,9 @@ purple="#7f43d6"
 torquise="#33cfb9"
 
 */
+p{
+	font-family: 'Raleway', sans-serif;
+}
 body{
 	 background-image: url("img/bg.png");
 	 background-size: 1600px;
@@ -491,7 +494,6 @@ h1 a{color:#131313; font-weight:bold;}
   width: 100%;
   height: 36px;
   box-sizing: border-box;
-  background: rgba(83, 5, 108, 0.2);
   padding-top: 15px;
   padding-left: 16px;
   border-radius: 3px;
@@ -1057,3 +1059,6 @@ img.rounded {
 }
 
 
+.backg{
+	background-color: rgba(255, 255, 255, 0.6);	
+}
