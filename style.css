@@ -27,11 +27,9 @@ a{
 	outline: 0;
 }
 .title{
-	color: #1A3357;
-}
-.title{
 	font-size: 50px;
-	font-family: 'Rubik', sans-serif;
+font-family: 'Karma', serif; 
+ color: #1A3357;
 }
 .adv{
 	background-color: rgba(127, 67, 214, 0.6);

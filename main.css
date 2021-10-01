@@ -41,12 +41,11 @@
 
 .s006 form .inner-form .input-field input {
   height: 100%;
-  width: 100%;
   background: transparent;
   border: 0;
   background: #F4F4F4;
   display: block;
-  width: 100%;
+  width: 75%;
   padding: 10px 32px 10px 70px;
   font-size: 18px;
   color: #666;
